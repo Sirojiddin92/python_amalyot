@@ -1,1 +1,1 @@
-# python_amalyot
+# python_amaliy_ishlar
